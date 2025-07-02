@@ -35,3 +35,6 @@ alias pacrm='sudo pacman -Rns'
 alias vimrc='nvim ~/.config/nvim/init.vim'  # Edit Neovim config
 alias bashrc='nvim ~/.bashrc && source ~/.bashrc'  # Edit & reload .bashrc
 alias se='sudoedit'      #Neovim as root (sudo)
+#git
+alias dotcfg='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+

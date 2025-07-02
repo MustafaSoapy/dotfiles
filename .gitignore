@@ -1,0 +1,6 @@
+.cache/
+.local/
+Downloads/
+.config/discord/
+.config/Code/
+*.log

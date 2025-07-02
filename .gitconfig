@@ -1,3 +1,5 @@
 [user]
 	name = Sofi
 	email = bryaniaa98@gmail.com
+[alias]
+	lg = log --oneline --graph --all
